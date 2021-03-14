@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/acuity-test/static/css/main.513eec89.chunk.css",
+    "main.js": "/acuity-test/static/js/main.1345ac47.chunk.js",
+    "main.js.map": "/acuity-test/static/js/main.1345ac47.chunk.js.map",
+    "runtime-main.js": "/acuity-test/static/js/runtime-main.b3668ba8.js",
+    "runtime-main.js.map": "/acuity-test/static/js/runtime-main.b3668ba8.js.map",
+    "static/js/2.2ca57bfb.chunk.js": "/acuity-test/static/js/2.2ca57bfb.chunk.js",
+    "static/js/2.2ca57bfb.chunk.js.map": "/acuity-test/static/js/2.2ca57bfb.chunk.js.map",
+    "index.html": "/acuity-test/index.html",
+    "static/css/main.513eec89.chunk.css.map": "/acuity-test/static/css/main.513eec89.chunk.css.map",
+    "static/js/2.2ca57bfb.chunk.js.LICENSE.txt": "/acuity-test/static/js/2.2ca57bfb.chunk.js.LICENSE.txt",
+    "static/media/mark.944ec276.svg": "/acuity-test/static/media/mark.944ec276.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3668ba8.js",
+    "static/js/2.2ca57bfb.chunk.js",
+    "static/css/main.513eec89.chunk.css",
+    "static/js/main.1345ac47.chunk.js"
+  ]
+}
